@@ -402,7 +402,7 @@ export default function ChatInterface({ onReset, autoStart = false }: ChatInterf
               rows={1}
             />
             <button
-              onClick={handleSend}
+              onClick={() => void handleSend()}
               disabled={!input.trim() || isLoading}
               className={styles.sendButton}
             >
