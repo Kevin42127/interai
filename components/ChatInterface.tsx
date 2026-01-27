@@ -96,7 +96,8 @@ export default function ChatInterface({ onReset, autoStart = false }: ChatInterf
     currentContentRef.current = '';
 
     try {
-      const response = await fetch('/api/chat', {
+      const apiUrl = process.env.NEXT_PUBLIC_API_URL || '/api/chat';
+      const response = await fetch(apiUrl, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
