@@ -1,0 +1,142 @@
+{
+  "common": {
+    "title": "InterAI",
+    "subtitle": "Professional conversation with AI interviewer",
+    "switching": "Switching...",
+    "disclaimer": "Using this website for AI interview practice does not guarantee that you will pass actual interviews or receive job offers."
+  },
+  "ChatInterface": {
+    "welcome": {
+      "title": "Ready to Start Interview",
+      "description": "Click the button below to start a conversation with the AI interviewer",
+      "startButton": "Start Interview",
+      "features": {
+        "title": "Features",
+        "realtime": {
+          "title": "Real-time Feedback",
+          "description": "Get instant interview feedback and suggestions"
+        },
+        "multilang": {
+          "title": "Multi-language Support",
+          "description": "Supports Traditional Chinese, English, Japanese, and Korean"
+        },
+        "privacy": {
+          "title": "Privacy Protection",
+          "description": "All conversation records are saved locally only"
+        }
+      },
+      "steps": {
+        "title": "How to Use",
+        "step1": {
+          "title": "Start Interview",
+          "description": "Click the start button to begin"
+        },
+        "step2": {
+          "title": "Answer Questions",
+          "description": "Respond to the AI interviewer's questions"
+        },
+        "step3": {
+          "title": "Get Feedback",
+          "description": "Receive professional interview feedback in real-time"
+        },
+        "step4": {
+          "title": "Finish Interview",
+          "description": "Click the finish button to end the interview"
+        }
+      },
+      "tips": {
+        "title": "Preparation Tips",
+        "tip1": "Ensure stable internet connection",
+        "tip2": "Prepare to answer technical questions",
+        "tip3": "Stay focused and express clearly",
+        "tip4": "You can use quick questions feature anytime"
+      },
+      "faq": {
+        "title": "FAQ",
+        "q1": {
+          "question": "How to finish the interview?",
+          "answer": "Click the \"Finish Interview\" button in the top right corner. The system will automatically clear conversation records after 10 seconds."
+        },
+        "q2": {
+          "question": "Will conversation records be saved?",
+          "answer": "All conversation records are only saved in your local browser and will not be uploaded to any server."
+        },
+        "q3": {
+          "question": "How long do I need to wait before starting a new interview?",
+          "answer": "After completing an interview, the system will start a 24-hour countdown timer. During this period, AI is preparing your resume, and you need to wait until the countdown ends before starting a new interview."
+        },
+        "q4": {
+          "question": "What languages are supported?",
+          "answer": "Currently supports Traditional Chinese, English, Japanese, and Korean."
+        },
+        "q5": {
+          "question": "Is this a paid service?",
+          "answer": "This service is completely free. All features are available without any payment."
+        }
+      }
+    },
+    "chat": {
+      "inputPlaceholder": "Enter your answer... (Shift+Enter for new line)",
+      "sendButton": "Send",
+      "backButton": "Back",
+      "finishButton": "Finish Interview",
+      "deleting": "Deleting...",
+      "seconds": "seconds",
+      "quickQuestions": {
+        "title": "Quick Questions",
+        "interviewProcess": "What stages does the interview process include?",
+        "technicalStack": "What is the technical stack for this position?",
+        "teamStructure": "What is the size and structure of the team?",
+        "workContent": "What are the main responsibilities of this position?"
+      },
+      "error": {
+        "requestFailed": "Request failed",
+        "cannotReadStream": "Cannot read response stream",
+        "general": "Sorry, an error occurred. Please try again later."
+      }
+    },
+    "interview": {
+      "welcome": "Hello! Welcome to the interview. I'm your interviewer, let's begin. Please briefly introduce yourself, including your technical background and relevant experience.",
+      "privacy": "**Privacy Policy:**\nWhen using this system, all conversation records are only saved on your local system and will not be uploaded to any server or third-party service. Your personal information and interview content will be kept completely confidential.",
+      "finishInfo": "**Finish Interview:**\nWhen you have completed the interview, you can click the \"Finish Interview\" button in the top right corner. The system will automatically delete all conversation records after 10 seconds and return to the homepage."
+    },
+    "confirm": {
+      "title": "Confirm Return",
+      "message": "Are you sure you want to end the current interview and return?",
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    },
+    "cooldown": {
+      "message": "AI is preparing your resume",
+      "button": "Please wait",
+      "days": "d",
+      "hours": "h",
+      "minutes": "m",
+      "seconds": "s"
+    },
+    "notice": {
+      "title": "Please Read Before Starting",
+      "section1": {
+        "title": "Interview Process",
+        "content": "The interview will be conducted by an AI interviewer. Please answer questions honestly. You can use the quick questions feature at any time during the interview to get more information."
+      },
+      "section2": {
+        "title": "Privacy Protection",
+        "content": "All conversation records are only saved in your local browser and will not be uploaded to any server. Your personal information and interview content will be kept completely confidential."
+      },
+      "section3": {
+        "title": "Finish Interview",
+        "content": "When you have completed the interview, you can click the \"Finish Interview\" button in the top right corner. The system will automatically delete all conversation records after 10 seconds and return to the homepage. After completing an interview, you need to wait 24 hours before starting a new interview."
+      },
+      "disclaimer": {
+        "title": "Important Notice"
+      },
+      "waiting": "The interviewer is ready",
+      "confirm": "I Understand",
+      "close": "Close"
+    }
+  },
+  "footer": {
+    "copyright": "© InterAI"
+  }
+}

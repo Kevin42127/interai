@@ -1,0 +1,142 @@
+{
+  "common": {
+    "title": "InterAI",
+    "subtitle": "與 AI 面試官進行專業對話",
+    "switching": "切換中...",
+    "disclaimer": "使用本網站進行 AI 面試練習，不代表實際面試時會面試通過或獲得工作機會。"
+  },
+  "ChatInterface": {
+    "welcome": {
+      "title": "準備開始面試",
+      "description": "點擊下方按鈕開始與 AI 面試官對話",
+      "startButton": "開始面試",
+      "features": {
+        "title": "功能特色",
+        "realtime": {
+          "title": "即時回饋",
+          "description": "獲得即時的面試回饋與建議"
+        },
+        "multilang": {
+          "title": "多語言支援",
+          "description": "支援繁體中文、英文、日文、韓文"
+        },
+        "privacy": {
+          "title": "隱私保護",
+          "description": "所有對話紀錄僅保存在本地"
+        }
+      },
+      "steps": {
+        "title": "使用說明",
+        "step1": {
+          "title": "開始面試",
+          "description": "點擊開始按鈕啟動面試"
+        },
+        "step2": {
+          "title": "回答問題",
+          "description": "根據 AI 面試官的問題進行回答"
+        },
+        "step3": {
+          "title": "獲得回饋",
+          "description": "即時獲得專業的面試回饋"
+        },
+        "step4": {
+          "title": "完成面試",
+          "description": "點擊完成按鈕結束面試"
+        }
+      },
+      "tips": {
+        "title": "準備提示",
+        "tip1": "確保網路連線穩定",
+        "tip2": "準備好回答相關技術問題",
+        "tip3": "保持專注與清晰的表達",
+        "tip4": "可以隨時使用快捷問題功能"
+      },
+      "faq": {
+        "title": "常見問題",
+        "q1": {
+          "question": "如何結束面試？",
+          "answer": "點擊右上角的「完成面試」按鈕，系統將在 10 秒後自動清除對話紀錄。"
+        },
+        "q2": {
+          "question": "對話紀錄會保存嗎？",
+          "answer": "所有對話紀錄僅保存在您的本地瀏覽器，不會上傳至任何伺服器。"
+        },
+        "q3": {
+          "question": "完成面試後多久可以再次開始？",
+          "answer": "完成面試後，系統會啟動 24 小時的倒數計時器。在此期間，AI 正在準備履歷，您需要等待倒數計時結束後才能開始新的面試。"
+        },
+        "q4": {
+          "question": "支援哪些語言？",
+          "answer": "目前支援繁體中文、英文、日文、韓文四種語言。"
+        },
+        "q5": {
+          "question": "這是付費服務嗎？",
+          "answer": "本服務完全免費，無需任何付費即可使用所有功能。"
+        }
+      }
+    },
+    "chat": {
+      "inputPlaceholder": "輸入您的回答...（Shift+Enter 換行）",
+      "sendButton": "傳送",
+      "backButton": "返回",
+      "finishButton": "完成面試",
+      "deleting": "刪除中...",
+      "seconds": "秒",
+      "quickQuestions": {
+        "title": "快捷問題",
+        "interviewProcess": "面試流程包含哪些階段？",
+        "technicalStack": "這個職位的技術棧是什麼？",
+        "teamStructure": "團隊的規模和結構是怎樣的？",
+        "workContent": "這個職位的主要工作內容是什麼？"
+      },
+      "error": {
+        "requestFailed": "請求失敗",
+        "cannotReadStream": "無法讀取回應流",
+        "general": "抱歉，發生錯誤。請稍後再試。"
+      }
+    },
+    "interview": {
+      "welcome": "您好！歡迎參加面試。我是您的面試官，讓我們開始吧。請先簡單介紹一下您自己，包括您的技術背景和相關經驗。",
+      "privacy": "**說明：**\n使用本系統時，所有對話紀錄僅保存在您的本地系統，不會上傳至任何伺服器或第三方服務。您的個人資訊和面試內容將完全保密。",
+      "finishInfo": "**完成面試：**\n當您完成面試後，可以點擊右上角的「完成面試」按鈕。系統將在 10 秒後自動刪除所有對話紀錄並返回首頁。"
+    },
+    "confirm": {
+      "title": "確認返回",
+      "message": "確定要結束當前面試並返回嗎？",
+      "confirm": "確定",
+      "cancel": "取消"
+    },
+    "cooldown": {
+      "message": "AI 正在準備履歷",
+      "button": "請稍候",
+      "days": "天",
+      "hours": "小時",
+      "minutes": "分鐘",
+      "seconds": "秒"
+    },
+    "notice": {
+      "title": "開始面試前請閱讀",
+      "section1": {
+        "title": "面試流程",
+        "content": "面試將由 AI 面試官進行，請根據問題誠實回答。面試過程中可以隨時使用快捷問題功能獲取更多資訊。"
+      },
+      "section2": {
+        "title": "隱私保護",
+        "content": "所有對話紀錄僅保存在您的本地瀏覽器，不會上傳至任何伺服器。您的個人資訊和面試內容將完全保密。"
+      },
+      "section3": {
+        "title": "完成面試",
+        "content": "當您完成面試後，可以點擊右上角的「完成面試」按鈕。系統將在 10 秒後自動刪除所有對話紀錄並返回首頁。完成面試後需等待 24 小時才能開始新的面試。"
+      },
+      "disclaimer": {
+        "title": "重要聲明"
+      },
+      "waiting": "面試官已準備就緒",
+      "confirm": "我了解",
+      "close": "關閉"
+    }
+  },
+  "footer": {
+    "copyright": "© InterAI"
+  }
+}
