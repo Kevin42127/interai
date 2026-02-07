@@ -32,6 +32,7 @@ export default async function LocaleLayout({
     <html lang={locale}>
       <head>
         <meta name="google-site-verification" content="ikA4eMUhLTjnxBSzCa1RpgmEg5SL_scysFac4hD4b-k" />
+        <meta name="google-adsense-account" content="ca-pub-7335462712833157" />
         <link
           href="https://fonts.googleapis.com/icon?family=Material+Icons"
           rel="stylesheet"
