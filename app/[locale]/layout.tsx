@@ -34,7 +34,7 @@ export default async function LocaleLayout({
         <meta name="google-site-verification" content="ikA4eMUhLTjnxBSzCa1RpgmEg5SL_scysFac4hD4b-k" />
         <meta name="google-adsense-account" content="ca-pub-7335462712833157" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7335462712833157"
-     crossorigin="anonymous"></script>
+     crossOrigin="anonymous"></script>
         <link
           href="https://fonts.googleapis.com/icon?family=Material+Icons"
           rel="stylesheet"
